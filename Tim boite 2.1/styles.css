@@ -1,0 +1,25 @@
+body
+{
+    text-align: center;
+    background-color: dimgray;
+}
+
+h1{
+    color: lightgoldenrodyellow;
+}
+
+h3{
+    color: lightgoldenrodyellow;
+}
+
+a{
+    color: cyan;
+}
+
+b{
+    color: snow;
+}
+
+p{
+    color: white;
+}
